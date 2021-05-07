@@ -10,6 +10,6 @@ function selectItem(){
 }
 btn.addEventListener("click",newItem)
 function newItem(){
-    headLine.innerHTML="hello world";
+    headline.innerHTML="hello world";
     btn.innerHTML="safi baraka"
 }
